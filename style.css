@@ -14,7 +14,14 @@ li { margin: 8px 0; }
    35px tall and the subscribe link 17px, against a 44px accessibility floor.
    Padding the list items rather than the anchors keeps the layout identical
    while making the whole row hittable. */
-li a, nav a, footer a { display: inline-block; min-height: 44px; line-height: 44px; }
+/* Every link, wherever it sits. The first pass scoped this to li/nav/footer
+   and missed four standalone links in <p> — Subscribe, FAQ, Sitemap, RSS —
+   which stayed 17px tall. Scoping a tap-target rule by ancestor is how you
+   fix 26 of 30 and call it done. */
+a { display: inline-block; min-height: 44px; line-height: 44px; }
+/* …except links inside running prose, where a 44px line-height would tear
+   the paragraph apart. Those are read, not tapped. */
+p a.inline, blockquote a, .date a { display: inline; min-height: 0; line-height: inherit; }
 li { margin: 4px 0; }
 .date { font-size: 0.95em; }
 @media (max-width: 600px) { body { padding: 10px; } }
