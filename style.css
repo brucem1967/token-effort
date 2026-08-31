@@ -9,4 +9,12 @@ nav a { margin-right: 15px; text-decoration: none; color: #1565c0; }
 a { color: #1565c0; }
 ul { padding-left: 20px; }
 li { margin: 8px 0; }
+
+/* Tap targets. Measured in a real browser at 320-768px: the episode links were
+   35px tall and the subscribe link 17px, against a 44px accessibility floor.
+   Padding the list items rather than the anchors keeps the layout identical
+   while making the whole row hittable. */
+li a, nav a, footer a { display: inline-block; min-height: 44px; line-height: 44px; }
+li { margin: 4px 0; }
+.date { font-size: 0.95em; }
 @media (max-width: 600px) { body { padding: 10px; } }
