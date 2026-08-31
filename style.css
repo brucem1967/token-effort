@@ -18,7 +18,11 @@ li { margin: 8px 0; }
    and missed four standalone links in <p> — Subscribe, FAQ, Sitemap, RSS —
    which stayed 17px tall. Scoping a tap-target rule by ancestor is how you
    fix 26 of 30 and call it done. */
-a { display: inline-block; min-height: 44px; line-height: 44px; }
+a { display: inline-block; min-height: 44px; line-height: 44px;
+    /* Short words like 'RSS' end up 33px wide. Height already clears the
+       bar and WCAG 2.5.8 AA only asks 24x24, so this is comfort rather
+       than compliance — but it is one line. */
+    padding: 0 6px; }
 /* …except links inside running prose, where a 44px line-height would tear
    the paragraph apart. Those are read, not tapped. */
 p a.inline, blockquote a, .date a { display: inline; min-height: 0; line-height: inherit; }
