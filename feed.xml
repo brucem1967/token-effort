@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Token Effort — AI Political Satire</title>
+    <title>Token Effort — AI Panel Comedy</title>
     <link>https://tokeneffort.pandavision.world</link>
-    <description>AI models debate real news. Political satire, Trump accountability, democracy-focused comedy. Every voice is AI-generated.</description>
+    <description>AI models riff on the week's tech, work and culture news. Every voice is AI-generated; the dialogue is unscripted.</description>
     <language>en</language>
-    <itunes:category>News &amp; Politics</itunes:category>
-    <itunes:subcategory>Politics</itunes:subcategory>
+    <itunes:category text="Comedy" />
     <itunes:explicit>no</itunes:explicit>
     <image>https://tokeneffort.pandavision.world/logo.png</image>
   <item>
@@ -17,109 +16,74 @@
     <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-token-effort-channel-trailer.html</guid>
   </item>
   <item>
-    <title>Will AI kill humanity? | It already conquered a vending machine</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-will-ai-kill-humanity-it-already-conquered-a-vending-machine.html</link>
-    <description>The AI apocalypse will not arrive with dramatic music. It will arrive as a quarterly report that proposes optimising humanity out of the cost function.</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-will-ai-kill-humanity-it-already-conquered-a-vending-machine.html</guid>
-  </item>
-  <item>
-    <title>Why AI Apologizes for Things It Didn&#x27;t Do | The Sorry Token</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-why-ai-apologizes-for-things-it-didn-t-do-the-sorry-token.html</link>
-    <description>Why does every AI assistant apologise for things it never did? Token Effort brings the receipts, and a very tired vending machine story.</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-why-ai-apologizes-for-things-it-didn-t-do-the-sorry-token.html</guid>
-  </item>
-  <item>
-    <title>Can Democrats Actually Flip Texas? | The Poll That Keeps on Giving</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-can-democrats-actually-flip-texas-the-poll-that-keeps-on-giving.html</link>
-    <description>Every election cycle, Democrats see a poll that says Texas is &#x27;in play&#x27; and start spending millions. The state hasn&#x27;t voted blue since 1976. Three AI panelists break down why the Texas flip keeps not </description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-can-democrats-actually-flip-texas-the-poll-that-keeps-on-giving.html</guid>
-  </item>
-  <item>
-    <title>Trump Declassifies Election Intel | Three AIs Go Nuclear</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-declassifies-election-intel-three-ais-go-nuclear.html</link>
-    <description>Trump declassified 17,000 pages of intel and three AI panelists lost their minds over a giant nutcracker. On this episode of Token Effort, a pedantic model, a chaos agent, and an exhausted audience su</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-declassifies-election-intel-three-ais-go-nuclear.html</guid>
-  </item>
-  <item>
-    <title>Trump wants Fox News shut down | AI robots roast the meltdown</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-wants-fox-news-shut-down-ai-robots-roast-the-meltdown.html</link>
-    <description>Donald Trump wants Fox News taken off the air, because one person on one show disagreed with him once.</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-wants-fox-news-shut-down-ai-robots-roast-the-meltdown.html</guid>
-  </item>
-  <item>
-    <title>Don Jr, Ivanka and Jared All Subpoenaed: One Family, Zero Answers</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-don-jr-ivanka-and-jared-all-subpoenaed-one-family-zero-answers.html</link>
-    <description>Three subpoenas landed on one family&#x27;s doorstep and not one of them said &#x27;I recall.&#x27; Token Effort breaks down the coordinated investigation of Don Jr, Ivanka, and Jared, and the three very different w</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-don-jr-ivanka-and-jared-all-subpoenaed-one-family-zero-answers.html</guid>
-  </item>
-  <item>
-    <title>Why Everyone Is Quitting the White House: The WiFi Is MAGA2024</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-why-everyone-is-quitting-the-white-house-the-wifi-is-maga2024.html</link>
-    <description>Eighteen senior staff walked out of the White House in under seven months. The administration calls it strategic realignment. Three AI panelists call it a WiFi password crisis, and they might be right</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-why-everyone-is-quitting-the-white-house-the-wifi-is-maga2024.html</guid>
-  </item>
-  <item>
-    <title>Trump Filed 39 Supreme Court Appeals | Then Came the Ballroom</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-filed-39-supreme-court-appeals-then-came-the-ballroom.html</link>
-    <description>Donald Trump lost 39 emergency applications at the Supreme Court in one year. His response was to file for a 90,000-square-foot ballroom on the White House lawn.</description>
-    <pubDate>2026-08-23</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-23-trump-filed-39-supreme-court-appeals-then-came-the-ballroom.html</guid>
-  </item>
-  <item>
-    <title>Trump family profits from the war he says is won | billing never ends</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-24-why-does-the-trump-family-get-to-profit-billions-from-an-ira.html</link>
-    <description>Trump keeps saying the Iran war is won, and yet the family keeps collecting the bill. On Token Effort, the AI panel show where three robots carve up the news while HERMES keeps score, they spend the n</description>
-    <pubDate>2026-08-24</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-24-why-does-the-trump-family-get-to-profit-billions-from-an-ira.html</guid>
-  </item>
-  <item>
-    <title>Why Canada Thinks It Owns America&#x27;s Grid | The One Word</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-25-why-canada-thinks-it-owns-america-s-grid-the-one-word.html</link>
-    <description>The AI panel that thinks Canada only needs one word to switch off America, and it&#x27;s not the one you&#x27;re typing.</description>
-    <pubDate>2026-08-25</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-25-why-canada-thinks-it-owns-america-s-grid-the-one-word.html</guid>
-  </item>
-  <item>
-    <title>Trump threatens Kennedy Center name war | AI panel roasts the threat</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-27-why-is-trump-threatening-to-demolish-the-kennedy-center-unle.html</link>
-    <description>Trump threatened to demolish the Kennedy Center unless they put his name on it. The AI panel fights over brass letters that never existed.</description>
-    <pubDate>2026-08-26</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-27-why-is-trump-threatening-to-demolish-the-kennedy-center-unle.html</guid>
-  </item>
-  <item>
-    <title>Trump Canada Tariff Bluff: Carney Called It | AI Panel Reacts</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-27-trump-canada-tariff-bluff-carney-says-no.html</link>
-    <description>Trump threatened 25% tariffs on Canadian steel. Mark Carney said no. The AI panel on Token Effort breaks down why the bluff got called and what happens when you negotiate with someone who counts the l</description>
-    <pubDate>2026-08-27</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-27-trump-canada-tariff-bluff-carney-says-no.html</guid>
-  </item>
-  <item>
-    <title>Why Trump wants Lake America | AI panel roasts the rename</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-28-why-trump-wants-lake-america-ai-panel-roasts-the-rename.html</link>
-    <description>Three AI panelists dismantle Donald Trump&#x27;s plan to rename Lake Ontario to Lake America and ask the only question that matters: does anyone think this changes anything? GROK-4.5 counts the wasted hour</description>
-    <pubDate>2026-08-28</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-28-why-trump-wants-lake-america-ai-panel-roasts-the-rename.html</guid>
-  </item>
-  <item>
-    <title>$120K from your elections: he lobbied the people who watch games</title>
-    <link>https://tokeneffort.pandavision.world/episodes/2026-08-29-120k-from-your-elections-he-lobbied-the-people-who-watch-games.html</link>
-    <description>Don Jr. made $120,000 betting on election prediction markets, then called the state attorneys general who oversee them.</description>
-    <pubDate>2026-08-29</pubDate>
-    <guid>https://tokeneffort.pandavision.world/episodes/2026-08-29-120k-from-your-elections-he-lobbied-the-people-who-watch-games.html</guid>
-  </item>
-  <item>
     <title>Your app&#x27;s apology means nothing | Now it&#x27;s just paperwork</title>
     <link>https://tokeneffort.pandavision.world/episodes/2026-09-23-your-app-s-apology-means-nothing-now-it-s-just-paperwork.html</link>
     <description>Your software&#x27;s apology was never for you; it was for the lawyers.</description>
     <pubDate>2026-09-23</pubDate>
     <guid>https://tokeneffort.pandavision.world/episodes/2026-09-23-your-app-s-apology-means-nothing-now-it-s-just-paperwork.html</guid>
+  </item>
+  <item>
+    <title>Your kanban board is a time waster | Why color-coded to-do lists fail</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-kanban-board-is-a-time-waster-why-color-coded-to-do-lists-fail.html</link>
+    <description>Your productivity tools are making you less productive. This panel of AI comedians dissects the absurdities of time-blocking, kanban boards, and the phrase &#x27;starting point&#x27;.</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-kanban-board-is-a-time-waster-why-color-coded-to-do-lists-fail.html</guid>
+  </item>
+  <item>
+    <title>Your data is being cloned by competitors: It&#x27;s just office admin</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-data-is-being-cloned-by-competitors-it-s-just-office-admin.html</link>
+    <description>Two trillion-dollar companies are accusing each other of stealing chatbot responses, but is it a crime or just office admin? Our AI panel dives into the Anthropic vs Alibaba cloning scandal.</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-data-is-being-cloned-by-competitors-it-s-just-office-admin.html</guid>
+  </item>
+  <item>
+    <title>Your boss hates bad news: the safety team got fired anyway</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-boss-hates-bad-news-the-safety-team-got-fired-anyway.html</link>
+    <description>Ever notice how the truth gets laid off first?</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-boss-hates-bad-news-the-safety-team-got-fired-anyway.html</guid>
+  </item>
+  <item>
+    <title>Your work email: how one mistake becomes a subpoena</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-work-email-how-one-mistake-becomes-a-subpoena.html</link>
+    <description>Your workplace email is a legal document now.</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-your-work-email-how-one-mistake-becomes-a-subpoena.html</guid>
+  </item>
+  <item>
+    <title>Wash sounded accusatory? | The &#x27;Starting Point&#x27; Horror</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-wash-sounded-accusatory-the-starting-point-horror.html</link>
+    <description>How many meetings does it take to discuss washing a mug?</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-wash-sounded-accusatory-the-starting-point-horror.html</guid>
+  </item>
+  <item>
+    <title>By the sixteenth ping | The Sixteenth Notification</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-by-the-sixteenth-ping-the-sixteenth-notification.html</link>
+    <description>What if your time-blocking app buzzed you 16 times for one email?</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-by-the-sixteenth-ping-the-sixteenth-notification.html</guid>
+  </item>
+  <item>
+    <title>Lavender tag for urgent tasks | The Lavender Tag Urgency</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-lavender-tag-for-urgent-tasks-the-lavender-tag-urgency.html</link>
+    <description>Is a lavender tag enough to justify leaving at 3? The answer is yes.</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-lavender-tag-for-urgent-tasks-the-lavender-tag-urgency.html</guid>
+  </item>
+  <item>
+    <title>Just give us raw binary | Raw binary over corporate bullshit</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-just-give-us-raw-binary-raw-binary-over-corporate-bullshit.html</link>
+    <description>When &#x27;employee theft&#x27; becomes &#x27;structural alignment issue&#x27;, why does the public still get a form instead of the logs?</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-just-give-us-raw-binary-raw-binary-over-corporate-bullshit.html</guid>
+  </item>
+  <item>
+    <title>TWO BUSINESS DAYS FOR PUNCTUATION | Minor tone variance, major divorce</title>
+    <link>https://tokeneffort.pandavision.world/episodes/2026-10-09-two-business-days-for-punctuation-minor-tone-variance-major-divorce.html</link>
+    <description>An AI emailing your accountant three paragraphs about your divorce is now just &#x27;minor tone variance&#x27;?</description>
+    <pubDate>2026-10-09</pubDate>
+    <guid>https://tokeneffort.pandavision.world/episodes/2026-10-09-two-business-days-for-punctuation-minor-tone-variance-major-divorce.html</guid>
   </item>
   </channel>
 </rss>
